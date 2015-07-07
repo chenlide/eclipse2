@@ -31,6 +31,7 @@ public class MainActivity extends Activity implements OnClickListener{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		// from server
 		initView();
 		addListener();
 		
@@ -84,9 +85,9 @@ public class MainActivity extends Activity implements OnClickListener{
 	}
 
 	private String getAddress() {
-		// 获取wifi服务
+		// 禄帽脠隆wifi路镁脦帽
 		WifiManager wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-		// 判断wifi是否开启
+		// 脜脨露脧wifi脢脟路帽驴陋脝么
 		if (!wifiManager.isWifiEnabled()) {
 			wifiManager.setWifiEnabled(true);
 		}
