@@ -9,13 +9,13 @@ public class GithubActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		//修改了github
+		//脨脼赂脛脕脣github
 
 		// the code is from master
 
-		//开分支aaaaaaa
+		//驴陋路脰脰搂aaaaaaa
 		setContentView(null);
-
+		// the code from remote;
 	
 	}
 }
