@@ -10,7 +10,7 @@ public class GithubActivity extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		//修改了github
-		//开分支
+		//开分支aaaaaaa
 	
 	}
 }
