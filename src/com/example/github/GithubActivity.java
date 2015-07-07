@@ -11,6 +11,7 @@ public class GithubActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		//修改了github
 		//开分支aaaaaaa
+		setContentView(null);
 	
 	}
 }
