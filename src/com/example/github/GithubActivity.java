@@ -16,6 +16,7 @@ public class GithubActivity extends Activity {
 		//¿ª·ÖÖ§aaaaaaa
 		setContentView(null);
 		// the code from remote;
+		// test again		
 	
 	}
 }
