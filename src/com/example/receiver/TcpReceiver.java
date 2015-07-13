@@ -16,6 +16,7 @@ public class TcpReceiver {
 	private int port = 8180;
 
 	private TcpReceiver() {
+		//777
 		initServer();
 	}
 
