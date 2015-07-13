@@ -17,6 +17,8 @@ public class TcpReceiver {
 
 	private TcpReceiver() {
 		//777
+		//666
+		
 		initServer();
 	}
 
