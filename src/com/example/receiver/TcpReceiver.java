@@ -34,6 +34,7 @@ public class TcpReceiver {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		//999
 	}
 
 	public void openServer() {
